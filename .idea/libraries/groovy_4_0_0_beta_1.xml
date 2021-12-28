@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="groovy-4.0.0-beta-1" type="groovy-library">
+    <properties version="4.0.0-beta-1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-cli-picocli-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-ant-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-docgenerator-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-dateutil-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-astbuilder-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-macro-library-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-nio-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-macro-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-servlet-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-jmx-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-contracts-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-sql-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-templates-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-json-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-cli-commons-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-test-junit5-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-testng-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-toml-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-test-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-typecheckers-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-ginq-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-swing-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-xml-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-groovysh-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-console-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-datetime-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-jsr223-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-groovydoc-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-4.0.0-beta-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-astbuilder-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-cli-commons-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-cli-picocli-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-datetime-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-dateutil-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-docgenerator-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-contracts-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-ginq-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-console-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-jmx-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-groovydoc-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-groovysh-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-jsr223-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-macro-library-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-ant-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-json-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-macro-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-nio-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-servlet-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-test-junit5-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-templates-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-sql-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-test-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-testng-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-toml-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-swing-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-typecheckers-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-xml-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RMIClient/lib/groovy-4.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
